@@ -4,7 +4,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 **Nahim Italo Chávez Sánchez** | 20 years old  
 Systems and Computer Engineering Student | 6th Semester
