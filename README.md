@@ -19,7 +19,7 @@ I'm passionate about building efficient and scalable software solutions. Current
 
 ---
 
-##  Tech Stack
+##  Tech stack
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -43,7 +43,7 @@ I'm passionate about building efficient and scalable software solutions. Current
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
-##  Connect With Me
+##  Connect with me
 
 <div align="center">
   
