@@ -11,15 +11,15 @@ Systems and Computer Engineering Student | 6th Semester
 
 I'm passionate about building efficient and scalable software solutions. Currently focused on strengthening my foundations in software architecture, design patterns, and best development practices.
 
-- 🎯 Specializing in **Software Engineering**
-- 🌱 Continuously learning new technologies and frameworks
-- 💼 Open to collaborations and professional opportunities
-- 📧 **nahimchavez7@gmail.com**
-- 📄 **[View my Resume](https://drive.google.com/file/d/1NipuMzRMJ-0ZbGqmJb7BbbRI0I-j5xgb/view?usp=sharing)**
+-  Specializing in **Software Engineering**
+-  Continuously learning new technologies and frameworks
+-  Open to collaborations and professional opportunities
+-  **nahimchavez7@gmail.com**
+-  **[View my Resume](https://drive.google.com/file/d/1NipuMzRMJ-0ZbGqmJb7BbbRI0I-j5xgb/view?usp=sharing)**
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -43,7 +43,7 @@ I'm passionate about building efficient and scalable software solutions. Current
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
   
