@@ -1,10 +1,4 @@
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXA0ZHRhc2c0bmg0MWo2eGxrYWRuZXlmaTFhaDMxZHdmZjh2cnRmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SIgWdqZfUlNBe/giphy.gif" />
-</div>
-
----
-
-##  About Me
+##  About me
 
 **Nahim Italo Chávez Sánchez** | 20 years old  
 Systems and Computer Engineering Student | 6th Semester
