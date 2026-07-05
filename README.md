@@ -1,7 +1,7 @@
 
 ---
 
-**Nahim Italo Chávez Sánchez** | 20 years old  
+**Nahim Italo Chavez Sanchez** | 20 years old  
 Systems and Computer Engineering Student | 6th Semester
 
 I'm passionate about building efficient and scalable software solutions. Currently focused on strengthening my foundations in software architecture, design patterns, and best development practices.
