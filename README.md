@@ -1,18 +1,16 @@
 
 ---
 
-### About me
+**Nahim Italo Chávez Sánchez** | 20 years old  
+Systems and Computer Engineering Student | 6th Semester
 
-**Nahim Italo Chávez Sánchez** · 20 years old
-Systems and Computer Engineering Student · 6th Semester
+I'm passionate about building efficient and scalable software solutions. Currently focused on strengthening my foundations in software architecture, design patterns, and best development practices.
 
-I'm passionate about building efficient and scalable software solutions. Currently focused on strengthening my foundations in **software architecture**, **design patterns**, and **best development practices**.
-
-- Specializing in **Software Engineering**
-- Continuously learning new technologies and frameworks
-- Open to collaborations and professional opportunities
-- Reach me at **nahimchavez7@gmail.com**
-- **[View my Resume](https://drive.google.com/file/d/1NipuMzRMJ-0ZbGqmJb7BbbRI0I-j5xgb/view?usp=sharing)**
+-  Specializing in **Software Engineering**
+-  Continuously learning new technologies and frameworks
+-  Open to collaborations and professional opportunities
+-  **nahimchavez7@gmail.com**
+-  **[View my Resume](https://drive.google.com/file/d/1NipuMzRMJ-0ZbGqmJb7BbbRI0I-j5xgb/view?usp=sharing)**
 
 ---
 
