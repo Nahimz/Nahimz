@@ -49,19 +49,6 @@ I'm passionate about building efficient and scalable software solutions. Current
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nahimz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahimz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahimz&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-> Nota: reemplaza `nahimz` en las URLs de arriba por tu usuario real de GitHub si es distinto, para que las estadísticas se generen correctamente.
-
 ---
 
 ### Connect with me
