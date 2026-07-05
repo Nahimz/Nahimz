@@ -49,7 +49,6 @@ I'm passionate about building efficient and scalable software solutions. Current
 
 ---
 
----
 
 ### Connect with me
 
